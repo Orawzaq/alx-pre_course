@@ -1,1 +1,1 @@
-This file is mandatory in all ALX School Software Engineering projects
+This file is mandatory in all ALX School Software projects
